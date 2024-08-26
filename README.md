@@ -12,7 +12,7 @@
     Nguyễn Hoàng Thái (Student1479454)
 =======================================
 
-Documentations : https://github.com/z1001st/Eproject-KeyKiosk/tree/main/Documentations
+Documentations : https://github.com/Datgau/Keykiosk/tree/main/01.%20Documentations
 
 =======================================
 
